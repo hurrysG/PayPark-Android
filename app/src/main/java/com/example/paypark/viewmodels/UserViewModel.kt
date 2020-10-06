@@ -20,7 +20,7 @@ class UserViewModel(application: Application) : AndroidViewModel(application) {
     }
 
     /**
-     * insertUser() method will create a new user record in the database
+     * insertUser() method will create a new user record in the databaseee
      */
     fun insertUser(){}
 }
